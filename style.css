@@ -1,0 +1,173 @@
+body
+{
+	background-color: #303030;
+	color : #ffffff;
+	font-family: 'Lato', sans-serif;
+}
+#container
+{
+	width : 1000px;
+	margin-left : auto;
+	margin-right : auto;	
+}
+#logo
+{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:600px;
+}
+#zegar
+{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.rectangle
+{
+	width : 960px;
+	margin: 20px;
+}
+.square
+{
+	width: 50%;
+	float: left;
+	text-align:center;
+	font-size: 22px;
+}
+.tile1
+{
+	margin: 10px;
+	float: left;
+	width: 230px;
+	height: 142px;
+		text-align:center;
+	font-size: 22px;
+	background-color: #3095d3;
+}
+.tile1:hover
+{
+	background-color: #2084c3;
+}
+
+.tile2
+{
+	float:left;
+	margin:10px;
+	width: 230px;
+	height: 142px;
+		text-align:center;
+	font-size: 22px;
+	background-color:#666666;
+}
+.tile2:hover
+{
+	background-color: #555555;
+}
+
+
+.tile3
+{
+	float:left;
+	text-align:center;
+	font-size: 22px;
+	margin:10px;
+	width: 230px;
+	height: 142px;
+	background-color:#82b637;
+}
+.tile3:hover
+{
+	background-color: #71a626;
+}
+
+#tile4
+{
+	margin: 10px;
+	width: 480px;
+	height: 110px;
+	padding-top: 35px;
+	text-align:center;
+	font-size: 22px;
+	background-color:#ee5a32;
+}
+.tile5
+{
+	margin: 10px;
+	width: 450px;
+	padding : 15px;
+	text-align:justify;
+	font-size: 20px;
+	height: 275px;
+	background-color:#666666;
+}
+#yt
+{
+	margin: 10px;
+	width: 105px;
+	height: 145px;
+	float: left;
+	background-color:#d94348;
+}
+#yt:hover
+{
+	background-color:#c83237;
+}
+
+#fb
+{
+	margin: 10px;
+	width: 105px;
+	height: 145px;
+	float: left;
+	background-color:#4668b3;
+}
+#fb:hover
+{
+	background-color: #3557a2;
+}
+
+#gplus
+{
+	margin: 10px;
+	width: 105px;
+	height: 145px;
+	float: left;
+	background-color:#d95333;
+}
+#gplus:hover
+{
+	background-color: #c84222;
+}
+
+#tw
+{
+	margin: 10px;
+	width: 105px;
+	height: 145px;
+	float: left;
+	background-color:#3095d3;
+}
+#tw:hover
+{
+	background-color: #2084c2 ;
+}
+
+#privateText
+{
+	margin: 10px;
+	text-align : center;
+	padding-top:5px;
+	font-size : 20px;
+	width:auto;
+}
+
+
+
+
+
+
